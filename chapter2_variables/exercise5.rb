@@ -1,0 +1,2 @@
+puts "The first program prints 3 because the value of x changes to 3 in the inner scope. The outer scope has access because it was initialzed originally in the outer scope."
+puts "The second program prints an error because x was not initialized in the outer scope, and therefore there is no access to x."

@@ -1,0 +1,5 @@
+Exception handling is synonymous with error handling. This gives us the ability
+to tell our program how to handle certain exceptions as they arise,
+which is important because errors are bound to happen when programs
+interact with the real world. We use this to control the execution flow
+and prevent the program from exiting or haulting entirely in the case of an error.

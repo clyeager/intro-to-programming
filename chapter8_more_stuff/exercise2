@@ -1,0 +1,1 @@
+Nothing is printed because we never used the .call method to actually call the block, and a Proc object is returned.

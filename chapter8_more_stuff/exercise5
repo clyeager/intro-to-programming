@@ -1,0 +1,1 @@
+We get this error because the method expects a string as an argumemt. If you want the method to accept a block, you must put (&block) in place of (block), as & indicates you are passing in a block.
